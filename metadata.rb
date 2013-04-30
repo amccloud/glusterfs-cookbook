@@ -1,5 +1,5 @@
 maintainer 'Andrew McCloud'
-maintainer_email 'andrewm@amccloud.com'
+maintainer_email 'andrew@amccloud.com'
 license 'All rights reserved'
 description 'Installs and configures glusterfs as a server or client.'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.rdoc'))
